@@ -1,4 +1,4 @@
-
+![alt text](Miniex1.png "beskrivelse af billede")
 
 Link: https://rawgit.com/MathildeFN/Miniexes00/master/p5/empty-example/index.html
 
