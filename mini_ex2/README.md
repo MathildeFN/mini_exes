@@ -1,5 +1,5 @@
 Screenshot
-
+![alt text](miniex2.png "beskrivelse af billede") 
 Link: https://rawgit.com/MathildeFN/mini_exes/master/mini_ex2/empty-example/index.html
 
 
