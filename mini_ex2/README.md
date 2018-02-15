@@ -1,6 +1,6 @@
 Screenshot
 
-Link
+Link: https://rawgit.com/MathildeFN/mini_exes/master/mini_ex2/empty-example/index.html
 
 
 I have made a fun draw, illustrating a face of a woman with a loading sign in the forehead to symbolize “thinking overload”. The draw is made of simple shapes using curveVertex, vertex and ellipses, and some of them have been filled with some color. I have used control.log (mouseX, mouseY) to find the coordinates for my shapes and their positions. Additionally, I have added a gif to my draw, to give my draw a fun edge. 
