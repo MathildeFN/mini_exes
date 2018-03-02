@@ -2,12 +2,13 @@ Screenshot:
 ![alt text](Screenshot_4.png "beskrivelse af billede") 
 
 Link:
+https://rawgit.com/MathildeFN/mini_exes/master/mini_ex4/empty-example/index.html
 
 **Describe about your sketch and explains what have been captured both conceptually and technically:** 
 
 I have created an interactive program consisting a webcam, a canvas and to buttons you can press. When clicking the button “Publish” a snapshot of the webcam is taken, which will be posted in the upper left corner of the canvas. When clicking the button again, a new snapshot is taken and posted next to the first snapshot and so it will continue. When the canvas is full, the next picture will again appear in the upper left corner on top of the first snapshot you took. There is also a button called “Start over” which makes the new snapshots start over and they will again be posted from the upper left corner no matter where in the snapshot process you are, so that you can always start over. To clear the canvas you have to update the website. 
 
-To create my program, I have used the syntax createCapture(VIDEO) to use the webcam as my capturing source. To create my buttons, I have used the syntax createButton and given them the name of their function. To decide the size and how many snapshots there is being published until it starts over, I have used the syntaxes For loops, Counter and if statements beside that I have used a bunch of variables to control my codes.
+To create my program, I have used the syntax createCapture(VIDEO) to use the webcam as my capturing source. To create my buttons, I have used the syntax createButton and naming them by their function. To decide the size and how many snapshots there is taken until it starts over, I have used the syntaxes For loops, Counter and if statements. I have also used a few variables to control my codes.
 
 The idea behind creating this kind of camera-memory-board with a bunch of selfies, is a kind of a critic to how we our self ,is at least partly responsible for all the capturing and storages of personal data, because we our self, chose to take pictures and post them, or chose to write, comment or like something in the social platforms, which is all being captured and probably used by a lot of people we don’t even know – so my program kind of shows how we our self, chose to press a publishing button and thereby capture and share our data. Thereby my program underlines and visualizes how data is being captured, by showing the pictures on a canvas, though it also illustrates that we must press the button our self, to be captured and published. 
 
