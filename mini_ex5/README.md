@@ -2,6 +2,9 @@
 
 ![alt text](Screenshotsnow.png "beskrivelse af billede") 
 
+**Link:**
+https://rawgit.com/MathildeFN/mini_exes/master/mini_ex5/empty-example/index.html
+
 **Describe how does your game/game object work:**
 
 I have created a “game” called “Let it snow” – by clicking the button on the screen, you can make it snow even more – the more you click the button, the more snow will appear.
