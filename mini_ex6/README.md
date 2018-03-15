@@ -24,7 +24,7 @@ I have tried to create a program creating a pattern of florets in a sunflower he
 
 **In my code:**
 
--	Φ is called a, and is the angel in which the ellipses are applied.
+-	φ is called a, and is the angel in which the ellipses are applied.
 -	n is the number of the ellipses, which is the ordering number of a floret, counting outward from the center
 -	c is the number of scaling pattern
 -	r is the radius (the distance between the center of the capitulum and the center of the nth floret) given a constant scaling parameter c. Sqrt stand for square root.
