@@ -1,6 +1,6 @@
 Screenshot
 
-Link:
+Link: https://rawgit.com/MathildeFN/mini_exes/master/mini_ex6/empty-example/index.html
 
 Readme:
 I have tried to create a program creating a pattern of florets in a sunflower head, proposed by the formula φ = n ∗ 137.5◦ , r = c √n; 
