@@ -1,18 +1,10 @@
-Screenshot
+**Screenshot:**
+![alt text](generative.png "beskrivelse af billede") 
 
-Link: https://rawgit.com/MathildeFN/mini_exes/master/mini_ex6/empty-example/index.html
+**Link:**
+https://rawgit.com/MathildeFN/mini_exes/master/mini_ex6/empty-example/index.html
 
 Readme:
-I have tried to create a program creating a pattern of florets in a sunflower head, proposed by the formula φ = n ∗ 137.5◦ , r = c √n; 
--	n is the ordering number of a floret, counting outward from the center.
--	φ is the angle between a reference direction and the position vector of the nth floret in a polar coordinate system originating at the center of the capitulum. The divergence angle between the position vectors of any two successive floret is constant a= 137,5 degrees. 
--	r is the distance between the center of the capitulum and the center of the nth floret, given a constant scaling parameter called c.
-**In my code:**
--	Φ is called a, and is the angel in which the ellipses are applied.
--	n is the number of the ellipses, which is the ordering number of a floret, counting outward from the center
--	c is the number of scaling pattern
--	r is the radius (the distance between the center of the capitulum and the center of the nth floret) given a constant scaling parameter c. Sqrt stand for square root.
--	c is the number of the scaling parameter
 
 By running my program a pattern of florets in a sunflower head is created, and you can changes the colors of the ellipses by pressing the arrow keys. 
 
@@ -24,6 +16,17 @@ By running my program a pattern of florets in a sunflower head is created, and y
 5.	When you press the left arrow the ellipses should change color
 6.	When you press the down arrow the ellipses should change color
 7.	When you press the up right the ellipses should change color
+
+I have tried to create a program creating a pattern of florets in a sunflower head, proposed by the formula φ = n ∗ 137.5◦ , r = c √n; 
+-	n is the ordering number of a floret, counting outward from the center.
+-	φ is the angle between a reference direction and the position vector of the nth floret in a polar coordinate system originating at the center of the capitulum. The divergence angle between the position vectors of any two successive floret is constant a= 137,5 degrees. 
+-	r is the distance between the center of the capitulum and the center of the nth floret, given a constant scaling parameter called c.
+**In my code:**
+-	Φ is called a, and is the angel in which the ellipses are applied.
+-	n is the number of the ellipses, which is the ordering number of a floret, counting outward from the center
+-	c is the number of scaling pattern
+-	r is the radius (the distance between the center of the capitulum and the center of the nth floret) given a constant scaling parameter c. Sqrt stand for square root.
+-	c is the number of the scaling parameter
 
 **My reflections upon generativity:** 
 This mini-exercise has given a better understanding of what generativity might be, in the sense that by making some rules and implementing them in a code, a generative piece of art appears as the outcome. 
