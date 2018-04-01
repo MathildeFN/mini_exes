@@ -1,10 +1,11 @@
+**AESTHETIC CONFUSION**
+by Line and Mathilde
+
 **Screenshot:**
 
 ![alt text](screenshot7.png "beskrivelse af billede") 
-
 **Link:**
 https://rawgit.com/MathildeFN/mini_exes/master/mini_ex7/empty-example/index.html
-
 
 **What is the aesthetic aspects of your program in particular to the relationship between code and language?**
 
