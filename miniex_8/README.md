@@ -10,7 +10,7 @@ https://rawgit.com/MathildeFN/mini_exes/master/miniex_8/empty-example/index.html
 
 **•	What is the program about?**
 
-Our program consists of two circles; one illustrating the temperature by changing color between red and blue, where blue represent that it is very cold and red that it is very warm. The other circle indicates the humidity by changing between light to dark grey scale, where a dark grey indicates a high humidity and a light grey indicates low humidity. 
+Our program consists of two circles; one illustrating the temperature in Aarhus by changing color between red and blue, where blue represent that it is very cold and red that it is very warm. The other circle indicates the humidity in Aarhus by changing between light to dark grey scale, where a dark grey indicates a high humidity and a light grey indicates low humidity. 
 We had a very hard time creating this program, therefore we ended up using one of Daniel Shiftmann’s tutorials and redesigned it. Therefore, we have used the same API has he did, namely the Open Weather API – which also seemed easy to understand how to use. 
 
 **•	Describtion and reflection** 
