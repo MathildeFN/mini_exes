@@ -5,7 +5,6 @@ I have made this program in collaboration with Cathrine B. P.
 **Screenshot:**
 
 ![alt text](weather.png "beskrivelse af billede") 
-
 **Link (dosn't work well):**
 https://rawgit.com/MathildeFN/mini_exes/master/miniex_8/empty-example/index.html
 
