@@ -5,10 +5,9 @@ Flow Chart of my mini ex4
 ![alt text](Miniex.png "beskrivelse af billede") 
 
 
-Hyperlink to mini_ex 4
+**Hyperlink to mini_ex 4:**
 
-
-[a link](https://github.com/MathildeFN/mini_exes/tree/master/mini_ex4)
+[Miniex 4](https://github.com/MathildeFN/mini_exes/tree/master/mini_ex4)
 
 
 **What may be the difficulty in drawing the flow chart?**
