@@ -1,11 +1,12 @@
 **Flow charts**
+
 Flow Chart of my mini ex4
 
 ![alt text](Miniex.png "beskrivelse af billede") 
 
 
 Hyperlink to mini_ex 4
-
+[Mini_ex4](https://github.com/MathildeFN/mini_exes/tree/master/mini_ex4_to_wiki)
 
 **What may be the difficulty in drawing the flow chart?**
 The difficult part of drawing a flowchart is to divide the code into different step, in the right order, and at the same time explaining difficult syntaxes.
@@ -25,6 +26,7 @@ The second idea is about data capture using the webcam. We want to create two bu
 ![alt text](datacaptureflowchart.png "beskrivelse af billede") 
 
 **The balance between simplicity and complicity**
+
 The balance between simplicity and complicity in our two ideas for our final project, is so that our coded program is made quite simple, whereas our conceptual thoughts about our programs is more complex. We have worked out our ideas by starting with a conceptual idea and theme, and thereby we have brainstormed ideas to illustrate our statements in a simple way. 
 
 **The technical challenges**
@@ -34,6 +36,7 @@ The technical challenges for our idea about the generativity project, might be t
 In the other idea about data capture, the technical challenge might be to get our ideas about the like selection and the buttons to work intentionally so that our conceptual idea gets visualized.  
 
 **Individual part:**
+
 The difference between my flowchart and those from the group work (in terms of the role of a flow chart)?
 The way my flowchart differs from those made in collaboration with my group, is the order of making the flowchart and the program. In the group we started thinking of a conceptual idea, and therefrom created a flowchart, to set the frames for a program, whereas I have made a flowchart after creating the program. 
 
