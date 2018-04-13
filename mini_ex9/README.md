@@ -11,6 +11,7 @@ Flow Chart of my mini ex4
 
 
 **What may be the difficulty in drawing the flow chart?**
+
 The difficult part of drawing a flowchart is to divide the code into different step, in the right order, and at the same time explaining difficult syntaxes.
 
 **Group work:**
