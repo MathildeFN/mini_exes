@@ -8,6 +8,9 @@ Flow Chart of my mini ex4
 Hyperlink to mini_ex 4
 [Mini_ex4](https://github.com/MathildeFN/mini_exes/tree/master/mini_ex4_to_wiki)
 
+link:https://github.com/MathildeFN/mini_exes/tree/master/mini_ex4_to_wiki[Mini_ex4]
+
+
 **What may be the difficulty in drawing the flow chart?**
 The difficult part of drawing a flowchart is to divide the code into different step, in the right order, and at the same time explaining difficult syntaxes.
 
