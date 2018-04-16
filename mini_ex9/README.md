@@ -43,7 +43,8 @@ In the other idea about data capture, the technical challenge might be to get ou
 The difference between my flowchart and those from the group work (in terms of the role of a flow chart)?
 The way my flowchart differs from those made in collaboration with my group, is the order of making the flowchart and the program. In the group we started thinking of a conceptual idea, and therefrom created a flowchart, to set the frames for a program, whereas I have made a flowchart after creating the program. 
 
-If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
-Algorithms in a wider cultural context and reflections on the notion of algorithms
+**Algorithms in a wider cultural context and reflections on the notion of algorithms**
+
+Algorithms seems to have an increasing influence on our daily life, as technology develops and gets integrated almost everywhere. Algorithms makes it easier to solve complex problems and calculations, which would be much more time consuming, if humans were to solve them on their own. Though, many algorithms might be very complex to understand to most people, and I think this is where flowcharts can be helpful, by mapping the order of the execution and how the different elements are linked together. In this way I think that flowchart enables a visualization of algorithm, that makes it simpler to understand.
 
 
